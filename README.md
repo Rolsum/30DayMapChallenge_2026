@@ -12,7 +12,7 @@ My entries for the annual mapping challenge — 30DayMapChallenge
 
 ### Day 2: Lines
 
-![Nozhay-Yurtovsky District, village of Zandak. Contour lines](day2_lines/Contour lines Zandak.png.png)
+![Nozhay-Yurtovsky District, village of Zandak. Contour lines](day2_lines/Contour_lines_Zandak.png)
 
 * **Tools:** QGIS 3.34
 * **Data:** Copernicus DEM (GLO-30), OpenStreetMap
