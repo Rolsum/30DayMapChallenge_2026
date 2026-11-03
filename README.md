@@ -1,6 +1,6 @@
 # 30DayMapChallenge
 
-My entries for the annual mapping challenge — 30DayMapChallenge
+My entries for the annual mapping challenge – 30DayMapChallenge
 
 ### Day 1: Points
 
@@ -16,4 +16,12 @@ My entries for the annual mapping challenge — 30DayMapChallenge
 
 * **Tools:** QGIS 3.34
 * **Data:** Copernicus DEM (GLO-30), OpenStreetMap
-* **Description:** The map uses contour lines to show the topography of the Nozhay-Yurtovsky District of the Chechen Republic and the village of Zandak (in the inset)..
+* **Description:** The map uses contour lines to show the topography of the Nozhay-Yurtovsky District of the Chechen Republic and the village of Zandak (in the inset).
+
+### Day 3: Polygons
+
+![Temperature and Precipitation by Region in the Chechen Republic, 1981–2010](day3_poligons/Temperature_precipitation.png)
+
+* **Tools:** QGIS 3.34
+* **Data:** CHELSA-bioclim, OpenStreetMap
+* **Description:** This map shows the average annual distribution of temperatures and precipitation in the regions of the Chechen Republic for the period from 1981 to 2010.
