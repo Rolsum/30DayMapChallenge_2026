@@ -25,3 +25,11 @@ My entries for the annual mapping challenge – 30DayMapChallenge
 * **Tools:** QGIS 3.34
 * **Data:** CHELSA-bioclim, OpenStreetMap
 * **Description:** This map shows the average annual distribution of temperatures and precipitation in the regions of the Chechen Republic for the period from 1981 to 2010.
+
+### Day 4: Clusters
+
+![Earthquake clusters in the Chechen Republic and part of the Caucasus, 1998–2026](day4_clusters/Earthquake_clusters.png)
+
+* **Tools:** QGIS 3.34, Python 3.12
+* **Data:** Euro-Mediterranean Seismological Centre, OpenStreetMap
+* **Description:** The spatial distribution of earthquake epicenters in Chechnya and part of the Caucasus over the period from 1998 to 2026.
