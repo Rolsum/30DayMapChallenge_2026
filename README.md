@@ -33,3 +33,13 @@ My entries for the annual mapping challenge – 30DayMapChallenge
 * **Tools:** QGIS 3.34, Python 3.12
 * **Data:** Euro-Mediterranean Seismological Centre, OpenStreetMap
 * **Description:** The spatial distribution of earthquake epicenters in Chechnya and part of the Caucasus over the period from 1998 to 2026.
+
+### Day 5: Senses: Sight
+
+![The Khaskalinsk Combat Tower: A Spatial Analysis of Line of Sight](day5_Senses-Sight/Khaskalinskaya_tower.png)
+
+* **Tools:** QGIS 3.34
+* **Data:** opendata.mkrf.ru, Copernicus DEM (GLO-30), OpenStreetMap
+* **Description:** A spatial analysis of the visibility of the Khaskalinskaya combat tower using the Visibility Analysis plugin in QGIS. The Khaskalinskaya Tower – the oldest Chechen watchtower in the village of Tazbichi – dates back to the 10th–12th centuries.
+
+
