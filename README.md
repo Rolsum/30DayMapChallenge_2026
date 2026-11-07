@@ -42,4 +42,15 @@ My entries for the annual mapping challenge – 30DayMapChallenge
 * **Data:** opendata.mkrf.ru, Copernicus DEM (GLO-30), OpenStreetMap
 * **Description:** A spatial analysis of the visibility of the Khaskalinskaya combat tower using the Visibility Analysis plugin in QGIS. The Khaskalinskaya Tower – the oldest Chechen watchtower in the village of Tazbichi – dates back to the 10th–12th centuries.
 
+### Day 6: Vintage
+
+**Didn't do/missed** 
+
+### Day 7: 10 minute map
+
+![NDVI Index for the City of Grozny](day7_10-minute-map/Grozny_NDVI.png)
+
+* **Tools:** QGIS 3.34
+* **Data:** Landsat 8 Level-2 (Collection 2)
+* **Description:** Calculation of the NDVI index for the city of Grozny, based on Landsat 8 Level-2 (Collection 2) data as of August 22, 2026. Completed in 9 minutes and 19 seconds.
 
