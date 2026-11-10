@@ -7,7 +7,7 @@ My entries for the annual mapping challenge – 30DayMapChallenge
 ![Settlements in the Chechen Republic](day1_points/settlements_map_CHR.png)
 
 * **Tools:** QGIS 3.34
-* **Data:** Rosstat (Russia); data-processing: «To Be Precise», 2025. URL: https://tochno.st/allsettlements
+* **Data:** Rosstat (Russia); data-processing: «To Be Precise», 2025. URL: https://tochno.st/allsettlements, OpenStreetMap
 * **Description:** The map illustrates the republic's settlement pattern using proportional markers (the size of the circle depends on the population, and the color depends on the settlement's status).
 
 ### Day 2: Lines
@@ -46,6 +46,7 @@ My entries for the annual mapping challenge – 30DayMapChallenge
 
 **Didn't do/missed** 
 
+
 ### Day 7: 10 minute map
 
 ![NDVI Index for the City of Grozny](day7_10-minute-map/Grozny_NDVI.png)
@@ -54,3 +55,19 @@ My entries for the annual mapping challenge – 30DayMapChallenge
 * **Data:** Landsat 8 Level-2 (Collection 2)
 * **Description:** Calculation of the NDVI index for the city of Grozny, based on Landsat 8 Level-2 (Collection 2) data as of August 22, 2026. Completed in 9 minutes and 19 seconds.
 
+### Day 8: Utopia
+
+**Didn't do/missed** 
+
+### Day 9: Urban-rural
+
+**Didn't do/missed** 
+
+
+### Day 10: Prompting only
+
+![Altitudinal Zones of the Chechen Republic](day10_Prompting-only/chechnya_vertical_belts_day10.png)
+
+* **Tools:** Google Antigravity AI, Python 3.12
+* **Data:** Copernicus DEM (GLO-30), OpenStreetMap, Rosstat
+* **Description:** The map was created 100% using Google Antigravity AI. The AI handled the entire map-making process — from concept to completion. There were a total of 4 iterations, 3 of which were revisions. The map illustrates the extraordinary vertical zonation of the Chechen Republic across a 4,514-meter elevation drop – spanning from the Caspian sand semi-deserts (−19 m) to the permanent glaciers of Mount Tebulosmta (4,494 m). Based on Copernicus DEM, it delineates 6 regional ecological tiers and features an integrated 153-km North-to-South orographic cross-section profile
